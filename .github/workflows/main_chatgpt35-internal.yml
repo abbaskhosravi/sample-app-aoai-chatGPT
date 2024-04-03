@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'chatGPT35-Internal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC4130A2B1D94E4AB343341018EC8D2A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_23737D2A8FAD43B086B2ADC237CF56CF }}

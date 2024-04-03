@@ -70,7 +70,7 @@ const Layout = () => {
                 <Stack horizontal verticalAlign="center" horizontalAlign="space-between">
                     <Stack horizontal verticalAlign="center">
                         <img
-                            src={ui?.logo ? ui.logo : Contoso}
+                            src={ui?.logo ? ui.logo : chatGPT-Internal}
                             className={styles.headerIcon}
                             aria-hidden="true"
                         />
